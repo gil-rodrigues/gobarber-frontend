@@ -46,9 +46,7 @@
       "react/jsx-props-no-spreading": "off",
       "react/prop-types": "off",
       "no-unused-expressions": "off",
-      "typescript/ban-types":[
-        "false"
-      ]
+      "camelcase":"off"
     },
     "settings": {
         "import/resolver": {
